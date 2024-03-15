@@ -2,7 +2,9 @@
 represented by the blue triangle, its starting position is its home base (1, 1).</p>
 <p>The aim is to move the Spaceship from its home base through space using the various movement
 operations to get to the Starbase (6,4), avoiding the Asteroids.</p>
-![Figure1](https://github.com/surajlakshitha/Asteroids-Arcade-Game/assets/78702149/cf156c64-d60e-45db-a28e-0ec69fcd9780)
+
+![Figure1](https://github.com/surajlakshitha/Asteroids-Arcade-Game/assets/78702149/67b7e5ff-20e7-4a4f-a87d-c2fccd044dc8)
+
 <p>Notes</p>
 • Space is made up of regions (squares of the grid) 12 wide by 7 high.<br>
 • The regions of space are populated by 11 asteroids, each in one region of space, and
